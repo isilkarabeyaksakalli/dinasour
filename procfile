@@ -1,2 +1,0 @@
-web: java -jar build/libs/dinasour-all.jar
-heroku ps:scale web=1
